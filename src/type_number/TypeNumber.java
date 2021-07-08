@@ -1,4 +1,4 @@
-package number;
+package type_number;
 
 
 public class TypeNumber {
